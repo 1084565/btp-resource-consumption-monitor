@@ -1,4 +1,5 @@
 stages:
   build:
     buildTool: "mta"
+    buildDescriptor: "cf/mta.yaml"
     buildToolVersion: "MBTJ21N22"
