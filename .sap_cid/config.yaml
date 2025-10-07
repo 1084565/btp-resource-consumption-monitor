@@ -1,4 +1,0 @@
-stages:
-  build:
-    buildTool: "mta"
-    buildToolVersion: "MBTJ21N22"
